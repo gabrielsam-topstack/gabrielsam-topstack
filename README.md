@@ -15,18 +15,21 @@ I am a Software and Quality Engineer with 14 years of experience delivering high
 I have tangible experience leading test automation initiatives as well as building fullstack applications , embedded applications, mobile applications.My approach is rooted in careful requirement analysis and leveraging cutting-edge tools to work with  Agile, cross-functional teams.
 
 
-**Projects:**
+### Projects
 
-***Fullstack***
-<br>
-### 🗓️ [RSVP App](https://staging.dshhu0sa2qcy3.amplifyapp.com)
-**Built with:** `JS` `React` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda ...`
+-  🗓️ [RSVP App](https://staging.dshhu0sa2qcy3.amplifyapp.com) *: [Source Code](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)*
+Built with:`JS` `React` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda ...`
+-  🔍 [Go Test](https://github.com/gabrielsam-topstack/stemcode) *: [Source Code](https://github.com/gabrielsam-topstack/stemcode)*
+Built with:`Go Test` `Testify`  ...`
+-  🔍 [WDIO Test](https://github.com/gabrielsam-topstack/wdiotest) *: [Source Code](https://github.com/gabrielsam-topstack/wdiotest)*
+Built with:`Javascript ` `Mocha`  ...`
 
-> A full-stack application for event management, fully deployed on AWS.
 
+
+https://github.com/gabrielsam-topstack/wdiotest
 [📁 Source Code](https://github.com/topstackgabriel/dev_fullstack_rsvp_app) | [🚀 Live Demo](https://staging.dshhu0sa2qcy3.amplifyapp.com)
-**Languages and Tools:**
-<br>
+### Tech Stack
+I mostly use ***Typescript*** ,***Java*** ,***Python*** but quite frankly I have used a lot languages over the last decade 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
