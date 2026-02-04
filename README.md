@@ -20,7 +20,7 @@ After over a decade in Automation testing , I have recently reconnected with my 
   ---
  
  <p>
-  <img width="250" align='left' src="https://github.com/gabrielsam-topstack/gabrielsam-topstack/blob/main/icon/devorqa2.png?raw=true">
+  <img width="250" align='left' src="https://github.com/gabrielsam-topstack/gabrielsam-topstack/blob/main/icon/devorqa2.jpg?raw=true">
 </p>
  
 ### Automation engineer or Software Engineer
