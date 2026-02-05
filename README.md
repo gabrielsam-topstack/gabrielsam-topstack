@@ -19,13 +19,15 @@ I have tangible experience leading test automation initiatives as well as buildi
 
 
 
-| **Scope**                                                                             | **Domain**           | **Context**                | **More**                                                             |**Link**                                             | 
-|---------------------------------------------------------------------------------------|----------------------|----------------------------|----------------------------------------------------------------------|------------------------------------------------------
-| 🗓️ [RSVP App](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)              | `FullStack Dev`      | Simple RSV app             |Built with:`JS` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda...`| [link](https://staging.dshhu0sa2qcy3.amplifyapp.com)|
-| 🗓️ [Playwright Test](https://github.com/topstackgabriel/auto_playwright_java.git)     | `Automation`         | Playwright Illustration    |Built with:`Playwright`                                              `|                                                     | 
-| 🗓️ [PyTest Test](https://github.com/topstackgabriel/auto_PyTest.git)                  | `Automation`         | PyTes Illustration         |Built with:`Pytest`                                                  `|                                                     | 
-| 🗓️ [Go Test](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)               | `Automation`         | Go Test illustration       |Built with:`Go Test` `Testify`                                       `|                                                     | 
-| 🗓️ [WDIO Test](https://github.com/gabrielsam-topstack/wdiotest)                       | `Automation`         | WDIO Test illustration     |Built with:`Wdio` `Mocha`                                            `|                                                     | 
+| **Scope**                                                                               | **Domain**           | **Context**                | **More**                                                             |**Link**                                             | 
+|-----------------------------------------------------------------------------------------|----------------------|----------------------------|----------------------------------------------------------------------|------------------------------------------------------
+| 🗓️ [RSVP App](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)                | `FullStack Dev`      | Simple RSV app             |Built with:`JS` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda...`| [link](https://staging.dshhu0sa2qcy3.amplifyapp.com)|
+| 🗓️ [Playwright Test](https://github.com/topstackgabriel/auto_playwright_java.git)       | `Automation`         | Playwright Illustration    |Built with:`Playwright`                                              `|                                                     | 
+| 🗓️ [PyTest Test](https://github.com/topstackgabriel/auto_PyTest.git)                    | `Automation`         | PyTes Illustration         |Built with:`Pytest`                                                  `|                                                     | 
+| 🗓️ [Axe Accessibility](https://github.com/topstackgabriel/auto_Axe_PW_Accessibility.git)| `Automation`         | Accessibility Test with Axe|Built with:`Axe core` `Testify`                                      `|                                                     | 
+| 🗓️ [Go Test](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)                 | `Automation`         | Go Test illustration       |Built with:`Go Test` `Playwright`                                    `|                                                     | 
+| 🗓️ [WDIO Test](https://github.com/gabrielsam-topstack/wdiotest)                         | `Automation`         | WDIO Test illustration     |Built with:`Wdio` `Mocha`                                            `|                                                     | 
+| 🗓️ [JUnit Test](https://github.com/topstackgabriel/auto_JUnit.git)                      | `Automation`         | Junit Test illustration    |Built with:`Junit` `Maven`                                           `|                                                     | 
 
 
 
