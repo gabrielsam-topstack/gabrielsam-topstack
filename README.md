@@ -18,7 +18,7 @@ I have tangible experience leading test automation initiatives as well as buildi
 ### Projects
 
 -  🗓️ [RSVP App](https://staging.dshhu0sa2qcy3.amplifyapp.com) *: [Source Code](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)*
-Built with:`JS` `React` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda ...`
+Built with:`JS` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda...`
 -  🔍 [Go Test](https://github.com/gabrielsam-topstack/stemcode) *: [Source Code](https://github.com/gabrielsam-topstack/stemcode)*
 Built with:`Go Test` `Testify`  ...`
 -  🔍 [WDIO Test](https://github.com/gabrielsam-topstack/wdiotest) *: [Source Code](https://github.com/gabrielsam-topstack/wdiotest)*
@@ -26,10 +26,8 @@ Built with:`Javascript ` `Mocha`  ...`
 
 
 
-https://github.com/gabrielsam-topstack/wdiotest
-[📁 Source Code](https://github.com/topstackgabriel/dev_fullstack_rsvp_app) | [🚀 Live Demo](https://staging.dshhu0sa2qcy3.amplifyapp.com)
 ### Tech Stack
-I mostly use ***Typescript*** ,***Java*** ,***Python*** but quite frankly I have used a lot languages over the last decade 
+I mostly use ***Typescript*** ,***Java*** ,***Python*** but quite frankly I have used a lot languages over the last decade . 
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
@@ -41,6 +39,16 @@ I mostly use ***Typescript*** ,***Java*** ,***Python*** but quite frankly I have
 <code><img height = "20" src = "https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+### Frameworks most used
+<code><img height="20" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/spring_boot.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/vue/vue.png"></code> <---> 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/selenium/selenium.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/playwright/playwright.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/postman/postman.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/pytest-dev/pytest/main/doc/en/img/pytest_logo_curves.svg"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/webdriverio/webdriverio/main/website/static/img/webdriverio.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/main/topics/java/java.png"></code>
  ---
  
  <p>
