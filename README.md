@@ -17,12 +17,15 @@ I have tangible experience leading test automation initiatives as well as buildi
 
 ### Projects
 
--  🗓️ [RSVP App](https://staging.dshhu0sa2qcy3.amplifyapp.com) *: [Source Code](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)*
-Built with:`JS` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda...`
--  🔍 [Go Test](https://github.com/gabrielsam-topstack/stemcode) *: [Source Code](https://github.com/gabrielsam-topstack/stemcode)*
-Built with:`Go Test` `Testify`  ...`
--  🔍 [WDIO Test](https://github.com/gabrielsam-topstack/wdiotest) *: [Source Code](https://github.com/gabrielsam-topstack/wdiotest)*
-Built with:`Javascript ` `Mocha`  ...`
+
+
+| **Scope**                                                                             | **Domain**           | **Context**                | **More**                                                             |**Link**                                             | 
+|---------------------------------------------------------------------------------------|----------------------|----------------------------|----------------------------------------------------------------------|------------------------------------------------------
+| 🗓️ [RSVP App](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)              | `FullStack Dev`      | Simple RSV app             |Built with:`JS` `Node.js` `AWS Amplify , RDS, DynamoDB, S3, Lambda...`| [link](https://staging.dshhu0sa2qcy3.amplifyapp.com)|
+| 🗓️ [Playwright Test](https://github.com/topstackgabriel/auto_playwright_java.git)     | `Automation`         | Playwright Illustration    |Built with:`Playwright`                                              `|                                                     | 
+| 🗓️ [PyTest Test](https://github.com/topstackgabriel/auto_PyTest.git)                  | `Automation`         | PyTes Illustration         |Built with:`Pytest`                                                  `|                                                     | 
+| 🗓️ [Go Test](https://github.com/topstackgabriel/dev_fullstack_rsvp_app)               | `Automation`         | Go Test illustration       |Built with:`Go Test` `Testify`                                       `|                                                     | 
+| 🗓️ [WDIO Test](https://github.com/gabrielsam-topstack/wdiotest)                       | `Automation`         | WDIO Test illustration     |Built with:`Wdio` `Mocha`                                            `|                                                     | 
 
 
 
