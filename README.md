@@ -62,6 +62,6 @@ I mostly use ***Typescript*** ,***Java*** ,***Python*** but quite frankly I have
  
 ### Automation engineer or Software Engineer
 
-My career started as a Software Engineer in the gaming industry spending over five years honing my fundamental development skills. Recognizing a critical need for technical rigor in Quality Assurance, I transitioned into Integration Testing—a role that has evolved into a 10-year focus on Automation Architecture. Driven by a commitment to system integrity and performance, I leveraged my engineering background to bridge the gap between development and quality. I operate under a 'Top Stack' philosophy: maintaining a high level of proficiency in both automation testing and software engineering to ensure that I can architect, build, and validate systems with equal expertise.
+My career started as a Software Engineer in the gaming industry spending over five years honing my fundamental development skills. Recognizing a critical need for technical rigor in Quality Assurance, I transitioned into Integration Testing—a role that has evolved into a 10-year focus on Automation Architecture. Driven by a commitment to system integrity and performance, I leveraged my engineering background to bridge the gap between development and quality. I operate under a 'Full Stack' philosophy: maintaining a high level of proficiency in both automation testing and software engineering to ensure that I can architect, build, and validate systems with equal expertise.
 
  ---
